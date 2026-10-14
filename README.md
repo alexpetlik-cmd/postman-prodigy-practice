@@ -17,7 +17,7 @@ This collection was created as part of a team practice project.
 - Comments
 
 ## My Contribution
-[Describe what you personally worked on — which folders, requests, or test scripts]
+Worked on Sign In functionality — created and verified requests for authentication / sign-in flow.
 
 ## How to Import
 1. Download the `.json` file from this repository
