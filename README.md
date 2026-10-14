@@ -17,7 +17,13 @@ This collection was created as part of a team practice project.
 - Comments
 
 ## My Contribution
-Worked on Sign In functionality — created and verified requests for authentication / sign-in flow.
+Responsible for the **Sign In** functionality (folder `Sign in [Oleksandra Petlyk]`).
+
+Tested and wrote scripts for:
+- Successful sign in (status 200, response structure, token, email match)
+- Sign in with non-existing credentials (negative case, status 422)
+- Response time and JSON validation
+- Saving token to collection variables for further requests
 
 ## How to Import
 1. Download the `.json` file from this repository
